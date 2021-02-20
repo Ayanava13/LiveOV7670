@@ -1,4 +1,4 @@
-//
+/*
 // Created by indrek on 1.05.2016.
 //
 
@@ -157,3 +157,4 @@ void sendPixelByte(uint8_t byte) {
 
 
 #endif
+*/
